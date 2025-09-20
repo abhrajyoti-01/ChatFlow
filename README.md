@@ -91,8 +91,8 @@ realtime-chat-app/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd realtime-chat-app
+   git clone https://github.com/abhrajyoti-01/ChatFlow
+   cd ChatFlow
    ```
 
 2. **Install backend dependencies**
